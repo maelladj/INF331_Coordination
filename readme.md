@@ -20,7 +20,7 @@ S'il y a des constats, le faire savoir dans le groupe d'étude.
 Assurez vous d'avoir un compte.
 1. Cliquer sur le boutton Fork en haut à droite pour clowner le projet
 
-2. Aller dans le dossier \site puis cliquer sur index.html
+2. Cliquer sur index.html
 
 3. Cliquer sur l'icône du bic en haut à droite du panneau où est affiché le code html
 
