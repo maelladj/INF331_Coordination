@@ -29,6 +29,7 @@ _________________________________
 ![image](https://user-images.githubusercontent.com/96428357/146779819-be2069a1-c5dd-4727-ac70-4c37b339ac7d.png)
 
 3. Cliquer sur l'icône du bic en haut à droite du panneau où est affiché le code html
+![image](https://user-images.githubusercontent.com/96428357/146780311-62764e59-f9e0-4bd1-9b20-cf690bb0e881.png)
 
 4. Ajouter les recherches pertinentes du groupe dans le tableau (suivre les règles de contribution plus bas)
 
