@@ -32,8 +32,10 @@ _________________________________
 ![image](https://user-images.githubusercontent.com/96428357/146780311-62764e59-f9e0-4bd1-9b20-cf690bb0e881.png)
 
 4. Ajouter les recherches pertinentes du groupe dans le tableau (suivre les règles de contribution plus bas)
+![image](https://user-images.githubusercontent.com/96428357/146782224-8ace4072-294d-4e77-af4b-a22c20ed4d40.png)
 
 5. Après les modification, aller tout en bas de la section du code source et cliquer sur "commit changes"
+![image](https://user-images.githubusercontent.com/96428357/146782247-c927034b-d496-431f-b9ac-512bed0c4300.png)
 
 6. Cliquer sur "pull request" dans la barre de navigation du projet (tout en haut)
 
