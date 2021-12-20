@@ -21,6 +21,8 @@ Assurez vous d'avoir un compte.
 1. Cliquer sur le boutton Fork en haut à droite pour clowner le projet
 ![image](https://user-images.githubusercontent.com/96428357/146779202-d01d9b77-4cdd-4aaf-b49a-2453090419b1.png)
 
+Une fois cela fait, vous devriez voir en haut à droite **nomutilisateur/INF331_Coordination** au lieu de JeanKouss/INF331_Coordination
+
 2. Cliquer sur index.html
 
 3. Cliquer sur l'icône du bic en haut à droite du panneau où est affiché le code html
