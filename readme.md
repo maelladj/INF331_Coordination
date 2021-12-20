@@ -38,6 +38,7 @@ _________________________________
 ![image](https://user-images.githubusercontent.com/96428357/146782247-c927034b-d496-431f-b9ac-512bed0c4300.png)
 
 6. Cliquer sur "pull request" dans la barre de navigation du projet (tout en haut)
+![image](https://user-images.githubusercontent.com/96428357/146782453-072b61c8-4bdf-46c4-8529-85c14d49d42a.png)
 
 7. Cliquer sur "New pull request"
 
