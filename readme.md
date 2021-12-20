@@ -23,7 +23,9 @@ Assurez vous d'avoir un compte.
 
 Une fois cela fait, vous devriez voir en haut à droite **nomutilisateur/INF331_Coordination** au lieu de JeanKouss/INF331_Coordination
 
-2. Cliquer sur index.html
+2. Dans la partie des fichiers, aller dans site/ puis cliquer sur index.html
+![image](https://user-images.githubusercontent.com/96428357/146779798-7f7ff83c-2bd5-42eb-8fef-0c3401566c20.png)
+![image](https://user-images.githubusercontent.com/96428357/146779819-be2069a1-c5dd-4727-ac70-4c37b339ac7d.png)
 
 3. Cliquer sur l'icône du bic en haut à droite du panneau où est affiché le code html
 
