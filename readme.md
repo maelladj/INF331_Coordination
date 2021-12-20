@@ -19,6 +19,7 @@ S'il y a des constats, le faire savoir dans le groupe d'étude.
 ### Méthode simple détaillée 1
 Assurez vous d'avoir un compte.
 1. Cliquer sur le boutton Fork en haut à droite pour clowner le projet
+![image](https://user-images.githubusercontent.com/96428357/146779202-d01d9b77-4cdd-4aaf-b49a-2453090419b1.png)
 
 2. Cliquer sur index.html
 
