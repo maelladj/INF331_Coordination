@@ -48,6 +48,7 @@ Vérifier bien qu'à droite, on a username/INF331.... et l'élément à gauche (
 ![image](https://user-images.githubusercontent.com/96428357/146783160-9333ba3d-1080-4746-bd4b-d912aa4d316f.png)
 
 9. Cliquer sur "New pull request"
+![image](https://user-images.githubusercontent.com/96428357/146784116-3a8a01c2-097c-4724-b91d-afba78ada0c6.png)
 
 
 
