@@ -41,6 +41,7 @@ _________________________________
 ![image](https://user-images.githubusercontent.com/96428357/146782453-072b61c8-4bdf-46c4-8529-85c14d49d42a.png)
 
 7. Cliquer sur "New pull request"
+![image](https://user-images.githubusercontent.com/96428357/146782634-09dc7391-7a26-4cde-80f2-80df05decdbf.png)
 
 8. Cliquer sur "Create pull request" et entrer le nom du groupe dans la partie commentaire
 
